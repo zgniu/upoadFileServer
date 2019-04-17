@@ -6,7 +6,7 @@ set_time_limit(0);
 $allowRead = array('php', 'conf', 'py', 'txt', 'go', 'lua', 'sql');
 
 // 主目录 
-define("ROOT", dirname(__FILE__));  // dir ->  /Users/baidu/Desktop/PHPTEST
+define("ROOT", dirname(__FILE__));  // dir ->  /Users/xxx/Desktop/PHPTEST
 
 // 脚本路径
 $script = $_SERVER['PHP_SELF'];
